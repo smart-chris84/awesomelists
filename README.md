@@ -1,4 +1,4 @@
-# awesomelists
+# Some useful materials for beginners and experts alike
 
 - HTML / CSS
     - [Google' HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
@@ -9,7 +9,7 @@
     - [Web Typography](https://github.com/deanhume/typography#readme)
     - [Material Design](https://github.com/sachin1092/awesome-material#readme)
 
-- Javascript(https://github.com/sorrycc/awesome-javascript#readme)
+- [Javascript](https://github.com/sorrycc/awesome-javascript#readme)
     - [Best practices](https://www.w3.org/wiki/JavaScript_best_practices)
     - [Tips](https://github.com/loverajoel/jstips#readme)
     - [Web Tools](https://github.com/lvwzhen/tools#readme)
@@ -51,13 +51,6 @@
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - A new feature that lets you use state and other React features without writing a class.
     - [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
-
-- [Misc]
-    - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-    - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-    - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
-    - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
-
 
 - [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
@@ -113,3 +106,10 @@
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+
+
+- Misc
+    - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
+    - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
+    - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
+    - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
