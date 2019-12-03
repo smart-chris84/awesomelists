@@ -1,5 +1,7 @@
 # Some useful materials for beginners and experts alike
 
+## Languages, Frameworks
+
 - HTML / CSS
     - [Google' HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
     - [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
@@ -38,7 +40,6 @@
     - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
     - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
     - [Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics#readme) - Metrics to help understand page speed and user experience.
-
 
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
@@ -108,8 +109,8 @@
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 
-- Misc
-    - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-    - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-    - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
-    - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
+## Misc
+- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
