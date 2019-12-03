@@ -108,6 +108,12 @@
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
+## DevOps
+- [How to Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+- [DevOps resources 1](https://github.com/AcalephStorage/awesome-devops)
+- [DevOps resources 2](https://github.com/joubertredrat/awesome-devops)
+- [DevOps resources 3](https://github.com/awesome-soft/awesome-devops)
+- [DevOpsLinks Is Awesome](https://github.com/eon01/DevOpsLinks-Is-Awesome)
 
 ## Misc
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
