@@ -7,7 +7,7 @@
 * [Learn CSS Layout](https://learnlayout.com)
 * [HTML5](https://github.com/diegocard/awesome-html5#readme)
 
-## Javascript(https://github.com/sorrycc/awesome-javascript#readme)
+- Javascript(https://github.com/sorrycc/awesome-javascript#readme)
 
-* [Tips](https://github.com/loverajoel/jstips#readme)
-* [Web Tools](https://github.com/lvwzhen/tools#readme)
+    * [Tips](https://github.com/loverajoel/jstips#readme)
+    * [Web Tools](https://github.com/lvwzhen/tools#readme)
