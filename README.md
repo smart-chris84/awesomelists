@@ -3,7 +3,7 @@
 ## Languages, Frameworks
 
 - HTML / CSS
-    - [Google' HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+    - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
     - [An advanced guide to HTML&CSS](http://learn.shayhowe.com/advanced-html-css/)
     - [Learn CSS Layout](https://learnlayout.com)
     - [HTML5](https://github.com/diegocard/awesome-html5#readme)
@@ -12,18 +12,21 @@
     - [Material Design](https://github.com/sachin1092/awesome-material#readme)
 
 - [Javascript](https://github.com/sorrycc/awesome-javascript#readme)
+    - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+    - [Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - [Best practices](https://www.w3.org/wiki/JavaScript_best_practices)
-    - [Tips](https://github.com/loverajoel/jstips#readme)
+    - [JSTips](https://github.com/loverajoel/jstips#readme)
     - [Web Tools](https://github.com/lvwzhen/tools#readme)
     - [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
+    - [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
     - [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
     - [Emails](https://github.com/jonathandion/awesome-emails#readme)
     - [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
-	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
+	- [Tips Everyone should know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
     - [Offline-First](https://github.com/pazguille/offline-first#readme)
     - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
     - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
