@@ -14,8 +14,11 @@
 - [Javascript](https://github.com/sorrycc/awesome-javascript#readme)
     - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
     - [Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    - [Best practices](https://www.w3.org/wiki/JavaScript_best_practices)
+    - [Best practices 1](https://www.w3.org/wiki/JavaScript_best_practices)
+    - [Best practices 2](https://github.com/goldbergyoni/nodebestpractices)
     - [JSTips](https://github.com/loverajoel/jstips#readme)
+    - [TypeScript](https://github.com/dzharii/awesome-typescript)
+    - [TypeScript books](https://github.com/basarat/typescript-book)
     - [Web Tools](https://github.com/lvwzhen/tools#readme)
     - [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
@@ -43,6 +46,8 @@
     - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
     - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
     - [Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics#readme) - Metrics to help understand page speed and user experience.
+    - [Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and Data structures implemented in JS.
+    - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - One of the best book about JavaScript.
 
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
@@ -123,3 +128,6 @@
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
+- [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers
+- [Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - Guide
+- [Courses](https://github.com/prakhar1989/awesome-courses)
