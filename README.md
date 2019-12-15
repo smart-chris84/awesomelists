@@ -131,3 +131,4 @@
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Some useful websites for programmers
 - [Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning) - Guide
 - [Courses](https://github.com/prakhar1989/awesome-courses)
+- [Project based Learning](https://github.com/tuvtran/project-based-learning)
